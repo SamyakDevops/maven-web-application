@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.45.41:9980/mithuntechnologies/repository/facebook-releases/</url>
+	      <name>ICICI Bank Releases Nexus Repository</name>
+	      <url>http://13.234.21.117:9980/samtech/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.45.41:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>ICICI Bank Snapshot Nexus Repository</name>
+	      <url>http://13.234.21.117:9980/samtech/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
